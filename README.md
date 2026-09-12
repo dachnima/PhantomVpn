@@ -35,10 +35,10 @@
 
 </div>
 
-## Features
+## Main Features
 
-- **High Performance:** Fast and responsive connectivity with optimized performance.
-- **Private & Secure:** Protect your connection and keep your online activity private.
+- **Cross Platform:** Windows, Linux & MacOs
+- **User Interface:** A modern UI with dark and light modes 
 - **Multiple Locations:** Connect to servers across multiple locations around the world.
 
 
