@@ -5,11 +5,13 @@
 # Phantom Desktop
 
 <a href="README_FA.md">
-  <img src="assets/iran.png" alt="فارسی" width="24">
+  <img src="img/iran.png" alt="فارسی" width="24">
+  فارسی
 </a>
-&nbsp;|&nbsp;
+&nbsp; · &nbsp;
 <a href="README.md">
-  <img src="assets/usa.png" alt="English" width="24">
+  <img src="img/usa.png" alt="English" width="24">
+  English
 </a>
 
 #### Best Free VPN For Desktop
