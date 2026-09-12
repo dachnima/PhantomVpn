@@ -14,6 +14,13 @@
   English
 </a>
 
-#### Best Free VPN For Desktop
+#### Phantom VPN delivers fast, private and reliable internet connectivity with a clean and intuitive experience across Windows/Linux/MacOS.
+
+<a href="https://github.com/dachnima/PhantomVpn/releases">
+  <img src="https://img.shields.io/github/downloads/dachnima/PhantomVpn/total?label=Downloads&color=4CAF50" alt="Downloads">
+</a>
+<a href="https://github.com/dachnima/PhantomVpn/stargazers">
+  <img src="https://img.shields.io/github/stars/dachnima/PhantomVpn?label=Stars&color=4CAF50" alt="Stars">
+</a>
 
 </div>
