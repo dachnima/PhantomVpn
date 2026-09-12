@@ -39,6 +39,6 @@
 
 - **Cross Platform:** Windows, Linux & MacOs
 - **User Interface:** A modern UI with dark and light modes 
-- **Multiple Locations:** Connect to servers across multiple locations around the world.
+- **Protocol Variety:** Supports VLESS, VMess, Reality, WireGuard, and more
 
 
