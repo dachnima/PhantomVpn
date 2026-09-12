@@ -40,5 +40,7 @@
 - **Cross Platform:** Windows, Linux & MacOs
 - **User Interface:** A modern UI with dark and light modes 
 - **Protocol Variety:** Supports VLESS, VMess, Reality, WireGuard, and more
+- **Fast Connection:** Get connected quickly and automatically
+- **Secure & Powerful:** Enjoy powerful and reliable connectivity with enhanced security
 
 
