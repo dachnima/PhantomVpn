@@ -16,6 +16,16 @@
 
 #### Phantom VPN delivers fast, private and reliable internet connectivity with a clean and intuitive experience across Windows/Linux/MacOS.
 
+</div>
+
+<div align="left">
+
+> **"With Phantom, Connect Without Limits!"**
+
+</div>
+
+<div align="center">
+
 <a href="https://github.com/dachnima/PhantomVpn/releases">
   <img src="https://img.shields.io/github/downloads/dachnima/PhantomVpn/total?label=Downloads&color=4CAF50" alt="Downloads">
 </a>
