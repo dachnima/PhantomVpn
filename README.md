@@ -25,7 +25,7 @@
 
 </div>
 
-## -> Features
+## Features
 
 - ⚡ Fast and reliable connection
 - 🔒 Private and secure internet access
