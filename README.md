@@ -24,3 +24,12 @@
 </a>
 
 </div>
+
+## -> Features
+
+- ⚡ Fast and reliable connection
+- 🔒 Private and secure internet access
+- 🌍 Multiple server locations
+- 🖥️ Windows / Linux / macOS support
+- 🎨 Clean and intuitive interface
+- 🚀 Lightweight and optimized performance
