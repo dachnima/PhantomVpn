@@ -43,4 +43,10 @@
 - **Fast Connection:** Get connected quickly and automatically
 - **Secure & Powerful:** Enjoy powerful and reliable connectivity with enhanced security
 
+## Download
 
+| Platform | Download |
+|----------|----------|
+| Windows | <div><a href="https://github.com/dachnima/PhantomVpn/releases"><img src="https://img.shields.io/badge/Download-EXE-4CAF50?style=flat&logo=windows"></a><br><a href="https://github.com/dachnima/PhantomVpn/releases"><img src="https://img.shields.io/badge/Download-Portable-4CAF50?style=flat&logo=windows"></a><br><a href="https://github.com/dachnima/PhantomVpn/releases"><img src="https://img.shields.io/badge/Download-ZIP-4CAF50?style=flat&logo=github"></a><br><a href="https://github.com/dachnima/PhantomVpn/releases"><img src="https://img.shields.io/badge/Download-Source-4CAF50?style=flat&logo=github"></a></div> |
+| Linux | <a href="https://github.com/dachnima/PhantomVpn/releases"><img src="https://img.shields.io/badge/Download-AppImage-4CAF50?style=flat&logo=linux"></a> |
+| macOS | <a href="https://github.com/dachnima/PhantomVpn/releases"><img src="https://img.shields.io/badge/Download-DMG-4CAF50?style=flat&logo=apple"></a> |
