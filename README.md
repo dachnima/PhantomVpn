@@ -37,9 +37,7 @@
 
 ## Features
 
-- ⚡ Fast and reliable connection
-- 🔒 Private and secure internet access
-- 🌍 Multiple server locations
-- 🖥️ Windows / Linux / macOS support
-- 🎨 Clean and intuitive interface
-- 🚀 Lightweight and optimized performance
+- **High Performance:** Fast and responsive connectivity with optimized performance.
+- **Private & Secure:** Protect your connection and keep your online activity private.
+- **Multiple Locations:** Connect to servers across multiple locations around the world.
+
