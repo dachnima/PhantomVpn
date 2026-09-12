@@ -2,7 +2,7 @@
 
 <img src="banner.png" alt="Project Banner" width="100%">
 
-# PHANTOM VPN
+# Phantom Desktop
 
 ### A fast, modern and simple application built for everyone.
 
